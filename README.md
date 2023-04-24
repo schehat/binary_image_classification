@@ -1,7 +1,7 @@
 # Binary Image Classification
 Image classifier with a convolutional neural network in TensorFlow with any dataset. In my example I trained a model with images of happy and sad people
 
-![Screenshot](images/test_image.png)
+![Screenshot](images/test_image.PNG)
 ![Screenshot](images/accuracy.png)
 
 ## Steps
@@ -27,7 +27,7 @@ pip install -r /path/to/requirements.txt
 python -m ipykernel install --user --name=anpr
 </pre>
 <br/>
-<b>Optionally: training model</b> <br>Download images in this structure and you should be good to go. No need to split data in train and test, will be in in the notebook.
+<b>Optionally: training model</b> <br>Download images in this structure and you should be good to go. No need to split data in train and test, will be done in the notebook.
 
 <b> data\happy</b> and
 <b> data\sad</b>
