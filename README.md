@@ -2,6 +2,7 @@
 Image classifier with a convolutional neural network in TensorFlow with any dataset. In my example I trained a model with images of happy and sad people
 
 ![Screenshot](images/test_image.PNG)
+
 ![Screenshot](images/accuracy.png)
 
 ## Steps
